@@ -1,2 +1,2 @@
 This is file B
-change
+big is big small is small
