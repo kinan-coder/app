@@ -1,6 +1,2 @@
 This is file A
-<<<<<<< HEAD
-this is a change
-=======tytytyt
-making changeaaa
->>>>>>> FeatureA
+
